@@ -21,13 +21,13 @@ website:
         text: Team
       - href: news.qmd
         text: News
-      - href: get-involved.qmd
-        text: Get Involved
-      - href: links.qmd
-        text: Links
-    right:
       - href: research.qmd
         text: Research
+      - href: get-involved.qmd
+        text: Get Involved
+    right:
+      - href: links.qmd
+        text: Links
   page-footer:
     center: "© 2026 PRISE Lab · UT Dallas · School of Economic, Political and Policy Sciences"
 
