@@ -12,22 +12,22 @@ Our research spans hurricane impacts in the U.S., tropical forest losses, energy
 
 ## Research Areas
 
-::: {.card}
+::: {.research-card}
 ### Climate and Political Accountability
 How extreme weather events shape election outcomes and climate policy.
 :::
 
-::: {.card}
+::: {.research-card}
 ### Conservation Program Effectiveness
 Optimizing conservation funding — evidence from Vietnam and beyond.
 :::
 
-::: {.card}
+::: {.research-card}
 ### Clean Energy Adoption
 Household adoption of energy-efficient cooking appliances in Uganda.
 :::
 
-::: {.card}
+::: {.research-card}
 ### Land-Use Change and Deforestation
 Political economy of deforestation in Brazil and Indonesia using remote sensing and causal analysis.
 :::

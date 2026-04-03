@@ -7,29 +7,29 @@ title: "Team"
 ::: {.team-grid}
 
 ::: {.team-member}
-![Dr. Erin Litzow](images/litzow.jpg)
+<img src="images/litzow.jpg" alt="Photo of Dr. Erin Litzow">
 
 ### Dr. Erin Litzow
 [Applied economist]{.role}
 
 Environmental, development, and energy economics. Research across 11 countries in Africa and Latin America. Affiliated with Duke Energy Access Project and Environment for Development.
 
-[Website](https://sites.google.com/site/erinlitzow/home){target="_blank"}
+[Website](https://sites.google.com/site/erinlitzow/home){target="_blank"} · [erin.litzow@utdallas.edu](mailto:erin.litzow@utdallas.edu)
 :::
 
 ::: {.team-member}
-![Dr. Elías Cisneros](images/cisneros.jpg)
+<img src="images/cisneros.jpg" alt="Photo of Dr. Elías Cisneros">
 
 ### Dr. Elías Cisneros
 [Political economist]{.role}
 
 Political economy of land-use change and deforestation in Brazil and Indonesia. Remote sensing and causal analysis methods.
 
-[Website](https://eliascis.github.io/){target="_blank"}
+[Website](https://eliascis.github.io/){target="_blank"} · [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu)
 :::
 
 :::
 
 ## Student Researchers
 
-*We are always looking for motivated students. If you are interested in joining the lab, reach out to either director.*
+*We are always looking for motivated students. If you are interested in joining the lab, reach out to either faculty member.*
