@@ -23,7 +23,3 @@ We are assembling a student team to test drinking water quality across campus fo
 - **Engineering** — water treatment costing, cost-benefit analysis
 
 To apply, email [erin.litzow@utdallas.edu](mailto:erin.litzow@utdallas.edu) and [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu) with your name, major, year, which team interests you, and why.
-
-### Contact
-
-Interested? Reach out to either faculty member on our [Team](team.qmd) page.
