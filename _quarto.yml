@@ -28,8 +28,6 @@ website:
     right:
       - href: research.qmd
         text: Research
-      - icon: github
-        href: https://github.com/prise-lab
   page-footer:
     center: "© 2026 PRISE Lab · UT Dallas · School of Economic, Political and Policy Sciences"
 
