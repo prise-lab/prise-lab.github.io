@@ -14,7 +14,7 @@ title: "Team"
 
 Environmental, development, and energy economics. Research across 11 countries in Africa and Latin America. Affiliated with Duke Energy Access Project and Environment for Development.
 
-[Website](https://sites.google.com/site/erinlitzow/home)
+[Website](https://sites.google.com/site/erinlitzow/home){target="_blank"}
 :::
 
 ::: {.team-member}
@@ -25,7 +25,7 @@ Environmental, development, and energy economics. Research across 11 countries i
 
 Political economy of land-use change and deforestation in Brazil and Indonesia. Remote sensing and causal analysis methods.
 
-[Website](https://eliascis.github.io/)
+[Website](https://eliascis.github.io/){target="_blank"}
 :::
 
 :::
