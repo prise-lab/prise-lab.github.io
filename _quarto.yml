@@ -20,6 +20,8 @@ website:
         text: Team
       - href: news.qmd
         text: News
+      - href: links.qmd
+        text: Links
     right:
       - icon: github
         href: https://github.com/prise-lab
