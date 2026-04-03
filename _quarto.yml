@@ -17,8 +17,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
       - href: team.qmd
         text: Team
       - href: news.qmd
@@ -28,6 +26,8 @@ website:
       - href: links.qmd
         text: Links
     right:
+      - href: research.qmd
+        text: Research
       - icon: github
         href: https://github.com/prise-lab
   page-footer:
