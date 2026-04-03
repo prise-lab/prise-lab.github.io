@@ -8,6 +8,8 @@ title: "PRISE Lab"
 UT Dallas · School of Economic, Political and Policy Sciences
 :::
 
+![PRISE Lab group photo](images/group.jpg){.group-photo}
+
 ## About
 
 PRISE is a research hub at UT Dallas dedicated to understanding and solving critical challenges in environmental sustainability, energy, and economic inequality. We focus on the human impact of environmental and economic shocks, particularly how they affect marginalized populations.
