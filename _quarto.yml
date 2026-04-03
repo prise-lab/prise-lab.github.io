@@ -1,13 +1,16 @@
 project:
   type: website
   output-dir: docs
+  post-render:
+    - touch docs/.nojekyll
 
 website:
   title: "PRISE Lab"
   description: "Policy Research in Sustainability and Economics — UT Dallas"
-  site-url: https://prise-lab.org
+  site-url: https://prise-lab.github.io
+  favicon: images/favicon.png
   navbar:
-    logo: images/logo.png
+    logo: images/icon.png
     logo-alt: "PRISE Lab"
     background: light
     foreground: "#0e5c5c"

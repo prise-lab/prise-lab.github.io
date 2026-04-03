@@ -1,1 +1,1 @@
-Sitemap: https://prise-lab.org/sitemap.xml
+Sitemap: https://prise-lab.github.io/sitemap.xml
