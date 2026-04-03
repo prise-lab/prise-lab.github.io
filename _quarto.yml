@@ -2,8 +2,7 @@ project:
   type: website
   output-dir: docs
   post-render:
-    - touch docs/.nojekyll
-    - echo 'prise-lab.com' > docs/CNAME
+    - ./post-render.sh
 
 website:
   title: "PRISE Lab"
