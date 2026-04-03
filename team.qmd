@@ -1,0 +1,33 @@
+---
+title: "Team"
+---
+
+## Directors
+
+::: {.team-grid}
+
+::: {.team-member}
+<!-- Replace with actual photo: images/litzow.jpg -->
+### Dr. Erin Litzow
+[Applied economist]{.role}
+
+Environmental, development, and energy economics. Research across 11 countries in Africa and Latin America. Affiliated with Duke Energy Access Project and Environment for Development.
+
+[Website](https://sites.google.com/site/erinlitzow/home)
+:::
+
+::: {.team-member}
+<!-- Replace with actual photo: images/cisneros.jpg -->
+### Dr. Elías Cisneros
+[Political economist]{.role}
+
+Political economy of land-use change and deforestation in Brazil and Indonesia. Remote sensing and causal analysis methods.
+
+[Website](https://eliascis.github.io/)
+:::
+
+:::
+
+## Student Researchers
+
+*We are always looking for motivated students. If you are interested in joining the lab, reach out to either director.*

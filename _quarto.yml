@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PRISE Lab"
+  description: "Policy Research in Sustainability and Economics — UT Dallas"
+  site-url: https://prise-lab.org
+  navbar:
+    background: "#C75B12"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: team.qmd
+        text: Team
+      - href: news.qmd
+        text: News
+    right:
+      - icon: github
+        href: https://github.com/prise-lab
+  page-footer:
+    center: "© 2026 PRISE Lab · UT Dallas · School of Economic, Political and Policy Sciences"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
