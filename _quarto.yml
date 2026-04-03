@@ -3,6 +3,7 @@ project:
   output-dir: docs
   post-render:
     - touch docs/.nojekyll
+    - echo 'prise-lab.com' > docs/CNAME
 
 website:
   title: "PRISE Lab"
