@@ -9,8 +9,8 @@ website:
   navbar:
     logo: images/logo.png
     logo-alt: "PRISE Lab"
-    background: "#0e5c5c"
-    foreground: "#ffffff"
+    background: light
+    foreground: "#0e5c5c"
     left:
       - href: index.qmd
         text: Home
