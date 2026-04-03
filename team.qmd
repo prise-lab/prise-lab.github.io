@@ -2,7 +2,7 @@
 title: "Team"
 ---
 
-## Directors
+## Faculty
 
 ::: {.team-grid}
 
