@@ -2,12 +2,6 @@
 title: "PRISE Lab"
 ---
 
-::: {.hero}
-![](images/logo.png){.hero-logo}
-
-UT Dallas · School of Economic, Political and Policy Sciences
-:::
-
 ![PRISE Lab group photo](images/group.jpg){.group-photo}
 
 ## About
