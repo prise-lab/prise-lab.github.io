@@ -3,7 +3,7 @@
 .hero {
   text-align: center;
   padding: 3rem 1rem;
-  background: linear-gradient(135deg, #C75B12 0%, #e8751a 100%);
+  background: linear-gradient(135deg, #0e5c5c 0%, #1a8a6e 100%);
   color: white;
   border-radius: 8px;
   margin-bottom: 2rem;
@@ -19,6 +19,11 @@
   opacity: 0.9;
 }
 
+.hero-logo {
+  max-width: 350px;
+  margin-bottom: 0.5rem;
+}
+
 .card {
   border: 1px solid #e0e0e0;
   border-radius: 8px;
@@ -27,7 +32,7 @@
 }
 
 .card h3 {
-  color: #C75B12;
+  color: #0e5c5c;
   margin-top: 0;
 }
 
@@ -54,7 +59,7 @@
 
 .team-member h3 {
   margin-bottom: 0.25rem;
-  color: #C75B12;
+  color: #0e5c5c;
 }
 
 .team-member .role {

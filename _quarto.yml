@@ -7,7 +7,9 @@ website:
   description: "Policy Research in Sustainability and Economics — UT Dallas"
   site-url: https://prise-lab.org
   navbar:
-    background: "#C75B12"
+    logo: images/logo.png
+    logo-alt: "PRISE Lab"
+    background: "#0e5c5c"
     foreground: "#ffffff"
     left:
       - href: index.qmd

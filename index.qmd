@@ -3,9 +3,7 @@ title: "PRISE Lab"
 ---
 
 ::: {.hero}
-# PRISE Lab
-
-**Policy Research in Sustainability and Economics**
+![](images/logo.png){.hero-logo}
 
 UT Dallas · School of Economic, Political and Policy Sciences
 :::
