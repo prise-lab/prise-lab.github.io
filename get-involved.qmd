@@ -12,9 +12,11 @@ We hold weekly lab meetings open to anyone interested. Come by, see what we're w
 
 PRISE Lab offers hands-on research experience for undergraduate and graduate students at UT Dallas. No prior research experience is required — just genuine interest and reliability. We mentor students through every step of the research process.
 
-### New Projects
+### Campus Drinking Water Quality Study
 
-**Campus Drinking Water Quality Study** — [UTD Green Fund](https://studentaffairs.utdallas.edu/initiatives/green-fund/){target="_blank"} student-led research initiative (Fall 2026)
+[UTD Green Fund](https://studentaffairs.utdallas.edu/initiatives/green-fund/){target="_blank"} student-led research initiative (Fall 2026)
+
+<img src="images/water-fountain.jpg" alt="Campus water fountain and bottle-filling station at UT Dallas" style="max-width:400px; border-radius:8px; margin:1rem 0;">
 
 We are assembling a student team to test drinking water quality across campus for PFAS, lead, and other contaminants, survey the campus community on willingness to pay for improvements, and conduct a cost-benefit analysis of treatment options. We need students from three areas:
 
