@@ -24,22 +24,6 @@ We are assembling a student team to test drinking water quality across campus fo
 
 To apply, email [erin.litzow@utdallas.edu](mailto:erin.litzow@utdallas.edu) and [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu) with your name, major, year, which team interests you, and why.
 
-### Ongoing Projects
-
-We also have openings on our ongoing research. If any of these topics interest you, reach out — we can match you to a project that fits your skills and goals.
-
-- **Climate and political accountability** — How do extreme weather events shape election outcomes and climate policy?
-- **Conservation program effectiveness** — Optimizing conservation funding using quasi-experimental methods
-- **Clean energy adoption** — Household adoption of energy-efficient cooking appliances in developing countries
-- **Land-use change and deforestation** — Remote sensing and causal analysis of deforestation in Brazil and Indonesia
-
-### What You Get
-
-- Real research experience for grad school apps, job interviews, and fellowships
-- Hands-on training in field methods, survey design, economic valuation, or data analysis
-- Co-authorship on reports and policy briefs
-- Mentorship from faculty with active research programs
-
 ### Contact
 
 Interested? Reach out to either faculty member on our [Team](team.qmd) page.
