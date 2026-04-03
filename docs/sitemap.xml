@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://prise-lab.github.io/links.html</loc>
-    <lastmod>2026-04-03T19:21:55.551Z</lastmod>
+    <loc>https://prise-lab.github.io/get-involved.html</loc>
+    <lastmod>2026-04-03T19:39:27.919Z</lastmod>
   </url>
   <url>
-    <loc>https://prise-lab.github.io/news.html</loc>
-    <lastmod>2026-04-03T19:04:34.333Z</lastmod>
-  </url>
-  <url>
-    <loc>https://prise-lab.github.io/research.html</loc>
-    <lastmod>2026-04-03T18:55:21.111Z</lastmod>
+    <loc>https://prise-lab.github.io/index.html</loc>
+    <lastmod>2026-04-03T19:37:20.691Z</lastmod>
   </url>
   <url>
     <loc>https://prise-lab.github.io/team.html</loc>
     <lastmod>2026-04-03T19:37:51.673Z</lastmod>
   </url>
   <url>
-    <loc>https://prise-lab.github.io/index.html</loc>
-    <lastmod>2026-04-03T19:37:20.691Z</lastmod>
+    <loc>https://prise-lab.github.io/research.html</loc>
+    <lastmod>2026-04-03T18:55:21.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.github.io/news.html</loc>
+    <lastmod>2026-04-03T19:04:34.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.github.io/links.html</loc>
+    <lastmod>2026-04-03T19:21:55.551Z</lastmod>
   </url>
 </urlset>

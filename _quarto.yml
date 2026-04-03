@@ -23,6 +23,8 @@ website:
         text: Team
       - href: news.qmd
         text: News
+      - href: get-involved.qmd
+        text: Get Involved
       - href: links.qmd
         text: Links
     right:
