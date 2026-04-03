@@ -7,7 +7,7 @@ project:
 website:
   title: "PRISE Lab"
   description: "Policy Research in Sustainability and Economics — UT Dallas"
-  site-url: https://prise-lab.github.io
+  site-url: https://prise-lab.com
   favicon: images/favicon.png
   navbar:
     logo: images/icon.png
