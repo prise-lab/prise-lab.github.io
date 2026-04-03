@@ -7,7 +7,8 @@ title: "Team"
 ::: {.team-grid}
 
 ::: {.team-member}
-<!-- Replace with actual photo: images/litzow.jpg -->
+![Dr. Erin Litzow](images/litzow.jpg)
+
 ### Dr. Erin Litzow
 [Applied economist]{.role}
 
@@ -17,7 +18,8 @@ Environmental, development, and energy economics. Research across 11 countries i
 :::
 
 ::: {.team-member}
-<!-- Replace with actual photo: images/cisneros.jpg -->
+![Dr. Elías Cisneros](images/cisneros.jpg)
+
 ### Dr. Elías Cisneros
 [Political economist]{.role}
 
