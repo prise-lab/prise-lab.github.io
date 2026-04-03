@@ -12,7 +12,7 @@ We hold weekly lab meetings open to anyone interested. Come by, see what we're w
 
 PRISE Lab offers hands-on research experience for undergraduate and graduate students at UT Dallas. No prior research experience is required — just genuine interest and reliability. We mentor students through every step of the research process.
 
-### Current Openings
+### New Projects
 
 **Campus Drinking Water Quality Study** (Green Fund, Fall 2026)
 
@@ -24,14 +24,14 @@ We are assembling a student team to test drinking water quality across campus fo
 
 To apply, email [erin.litzow@utdallas.edu](mailto:erin.litzow@utdallas.edu) and [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu) with your name, major, year, which team interests you, and why.
 
-### Ongoing Research Areas
+### Ongoing Projects
 
-We regularly seek students interested in:
+We also have openings on our ongoing research. If any of these topics interest you, reach out — we can match you to a project that fits your skills and goals.
 
-- Climate and political accountability
-- Conservation program effectiveness
-- Clean energy adoption in developing countries
-- Land-use change and deforestation
+- **Climate and political accountability** — How do extreme weather events shape election outcomes and climate policy?
+- **Conservation program effectiveness** — Optimizing conservation funding using quasi-experimental methods
+- **Clean energy adoption** — Household adoption of energy-efficient cooking appliances in developing countries
+- **Land-use change and deforestation** — Remote sensing and causal analysis of deforestation in Brazil and Indonesia
 
 ### What You Get
 
