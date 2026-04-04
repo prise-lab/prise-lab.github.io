@@ -1,5 +1,11 @@
 /* PRISE Lab custom styles */
 
+.site-logo {
+  display: block;
+  max-width: 400px;
+  margin: 0 auto 2rem auto;
+}
+
 .group-photo {
   width: 100%;
   border-radius: 8px;

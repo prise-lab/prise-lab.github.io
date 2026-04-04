@@ -1,12 +1,12 @@
 ---
-title: "PRISE Lab"
+title: ""
 ---
 
-![PRISE Lab group photo](images/group.jpg){.group-photo}
+![PRISE Lab logo](images/logo.png){.site-logo}
 
 ## About
 
-PRISE is a research hub at UT Dallas dedicated to understanding and solving critical challenges in environmental sustainability, energy, and economic inequality. We focus on the human impact of environmental and economic shocks, particularly how they affect marginalized populations.
+**Policy Research in Sustainability and Economics (PRISE)** is a research hub at UT Dallas dedicated to understanding and solving critical challenges in environmental sustainability, energy, and economic inequality. We focus on the human impact of environmental and economic shocks, particularly how they affect marginalized populations.
 
 Our research spans hurricane impacts in the U.S., tropical forest losses, energy access in sub-Saharan Africa, and pollution effects worldwide.
 
