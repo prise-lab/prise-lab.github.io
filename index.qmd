@@ -2,7 +2,7 @@
 title: ""
 ---
 
-![PRISE Lab logo](images/logo.png){.site-logo}
+![PRISE Lab logo](images/logo.svg){.site-logo}
 
 ## About
 
