@@ -34,4 +34,17 @@ Political economy of land-use change and deforestation in Brazil and Indonesia. 
 
 ## Student Researchers
 
+::: {.team-grid}
+
+::: {.team-member}
+<img src="images/singh.jpg" alt="Photo of Sonali Singh">
+
+### Sonali Singh
+[PhD candidate, Public Policy & Political Economy]{.role}
+
+Climate variability, human capital, and political economy. Research on extreme heat and educational outcomes, weather shocks in India, and patent reforms in emerging markets. UT System Graduate Archer Fellow and NSF-funded EITM Scholar.
+:::
+
+:::
+
 *We are always looking for motivated students. If you are interested in joining the lab, reach out to either faculty member.*
