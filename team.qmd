@@ -23,7 +23,7 @@ Environmental, development, and energy economics. Research across 11 countries i
 <img src="images/cisneros.jpg" alt="Photo of Dr. Elías Cisneros">
 
 ### Dr. Elías Cisneros
-[Political economist]{.role}
+[Environmental economist]{.role}
 
 Political economy of land-use change and deforestation in Brazil and Indonesia. Remote sensing and causal analysis methods.
 
@@ -43,6 +43,76 @@ Political economy of land-use change and deforestation in Brazil and Indonesia. 
 [PhD candidate, Public Policy & Political Economy]{.role}
 
 Climate variability, human capital, and political economy. Research on extreme heat and educational outcomes, weather shocks in India, and patent reforms in emerging markets. UT System Graduate Archer Fellow and NSF-funded EITM Scholar.
+:::
+
+::: {.team-member}
+
+### Kayleigh Tompkins
+[Graduate student, Public Policy & Political Economy]{.role}
+
+[LinkedIn](https://www.linkedin.com/in/kayleigh-tompkins/){target="_blank"} · [kayleigh.tompkins@utdallas.edu](mailto:kayleigh.tompkins@utdallas.edu)
+:::
+
+::: {.team-member}
+
+### Mamie Cincotta
+[Graduate student, Public Policy & Political Economy]{.role}
+
+[Mamie.Cincotta@utdallas.edu](mailto:Mamie.Cincotta@UTDallas.edu)
+:::
+
+::: {.team-member}
+
+### Deena Essa
+[Graduate student, Public Policy & Political Economy]{.role}
+
+[deena.essa@utdallas.edu](mailto:deena.essa@utdallas.edu)
+:::
+
+::: {.team-member}
+
+### Yiqun Yu
+[Graduate student, Economics]{.role}
+
+[LinkedIn](https://www.linkedin.com/in/yiqun-yu-527003180/){target="_blank"} · [Yiqun.Yu@utdallas.edu](mailto:Yiqun.Yu@UTDallas.edu)
+:::
+
+::: {.team-member}
+
+### Partha Chowdhury
+[Graduate student, Political Science]{.role}
+
+[Partha.Chowdhury@utdallas.edu](mailto:Partha.Chowdhury@UTDallas.edu)
+:::
+
+:::
+
+## Undergraduate Student Researchers
+
+::: {.team-grid}
+
+::: {.team-member}
+
+### Aria Abhyankar
+[Undergraduate student, International Political Economy]{.role}
+
+[Aria.Abhyankar@utdallas.edu](mailto:Aria.Abhyankar@UTDallas.edu)
+:::
+
+::: {.team-member}
+
+### Joey Rogers
+[Undergraduate student]{.role}
+
+[LinkedIn](https://www.linkedin.com/in/joseph-rogers-320abb2a1/){target="_blank"} · [Joseph.Rogers2@utdallas.edu](mailto:Joseph.Rogers2@UTDallas.edu)
+:::
+
+::: {.team-member}
+
+### Nyma Anisa Ehtesham
+[Undergraduate student, International Political Economy]{.role}
+
+[Nyma.Ehtesham@utdallas.edu](mailto:Nyma.Ehtesham@UTDallas.edu)
 :::
 
 :::
