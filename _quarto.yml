@@ -1,8 +1,9 @@
 project:
   type: website
   output-dir: docs
-  post-render:
-    - ./post-render.sh
+  resources:
+    - CNAME
+    - .nojekyll
 
 website:
   title: "PRISE Lab"
