@@ -20,12 +20,12 @@ website:
         text: Home
       - href: team.qmd
         text: Team
-      - href: news.qmd
-        text: News
       - href: research.qmd
         text: Research
       - href: get-involved.qmd
         text: Get Involved
+      - href: news.qmd
+        text: News
     right:
       - href: links.qmd
         text: Links
