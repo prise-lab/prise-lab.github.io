@@ -54,3 +54,52 @@
   color: #666;
   font-style: italic;
 }
+
+.opportunity-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.opportunity-thumb {
+  flex-shrink: 0;
+}
+
+.opportunity-thumb img {
+  display: block;
+  width: 180px;
+  height: 135px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.opportunity-content {
+  flex: 1;
+}
+
+.opportunity-content h3 {
+  color: #0e5c5c;
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.opportunity-content .subtitle {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .opportunity-card {
+    flex-direction: column;
+  }
+  .opportunity-thumb img {
+    width: 100%;
+    height: auto;
+    max-height: 240px;
+  }
+}
