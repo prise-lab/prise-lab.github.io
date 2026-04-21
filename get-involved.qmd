@@ -18,16 +18,14 @@ PRISE Lab offers hands-on research experience for undergraduate and graduate stu
 
 ::: {.opportunity-card}
 
-<div class="opportunity-thumb"><img src="images/water-fountain.jpg" alt="Campus water fountain and bottle-filling station at UT Dallas"></div>
+<div class="opportunity-thumb"><a href="projects/water-quality.qmd"><img src="images/water-fountain.jpg" alt="Campus water fountain and bottle-filling station at UT Dallas"></a></div>
 
 ::: {.opportunity-content}
-### Campus Drinking Water Quality Study
+### [Campus Drinking Water Quality Study](projects/water-quality.qmd)
 
 [[UTD Green Fund](https://studentaffairs.utdallas.edu/initiatives/green-fund/){target="_blank"} student-led research initiative (Fall 2026)]{.subtitle}
 
 Testing campus drinking water for PFAS, lead, and other contaminants; surveying willingness to pay for improvements; recruiting students from environmental science, social science, and engineering.
-
-[Learn more →](projects/water-quality.qmd)
 :::
 
 :::
