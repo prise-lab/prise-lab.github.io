@@ -43,3 +43,17 @@ Become part of PRISE as our Student Applications Manager. Help us review incomin
 :::
 
 :::
+
+::: {.opportunity-card}
+
+<div class="opportunity-thumb"><a href="projects/nightlights-replications.qmd"><img src="images/nightlights-korea.jpg" alt="Satellite nighttime lights over the Korean peninsula"></a></div>
+
+::: {.opportunity-content}
+### [Nightlights Replication Reviewer](projects/nightlights-replications.qmd)
+
+[Volunteer role — join PRISE Lab]{.subtitle}
+
+Read published economics papers that use satellite nighttime lights and help us pinpoint where the nightlight data shows up in each study's main results. Learn to read empirical research on the job. A few hours per week.
+:::
+
+:::

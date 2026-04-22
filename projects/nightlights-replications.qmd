@@ -1,0 +1,32 @@
+---
+title: "Nightlights Replication Reviewer"
+subtitle: "Volunteer role — join PRISE Lab"
+date: 2026-04-21
+---
+
+<img src="../images/nightlights-korea.jpg" alt="Satellite nighttime lights over the Korean peninsula" style="max-width:320px; border-radius:8px; margin:1rem 0;">
+
+Economists increasingly use satellite nighttime lights as a proxy for local economic activity — and our lab is taking a close look at how robust those results really are. We are assembling a library of replication packages from published papers that use nightlight data, and we need a student to help us read through them and pull out what matters.
+
+Your role is to go paper by paper and tell us, in plain language, where the nightlight data actually shows up in each study's main results. No prior research experience is required — these are skills you will learn on the job, with guidance from the faculty.
+
+**What you will do**
+
+- Read assigned papers and their replication packages.
+- Identify which regressions and figures use nightlight data, and flag the ones the authors treat as the main result.
+- Keep a short structured log so we can compare findings across papers.
+
+**What you get**
+
+- Hands-on training in how to read, interpret, and evaluate empirical economics research.
+- A front-row seat to an active research project at the intersection of remote sensing and development economics.
+- Mentorship from the faculty and a strong letter of recommendation for future applications.
+- A flexible commitment — a few hours per week, around your coursework.
+
+**Who we are looking for**
+
+Any motivated UT Dallas undergraduate with curiosity about economics or environmental research and a willingness to read carefully. No prior coursework in econometrics or GIS required.
+
+**Interested?**
+
+Email [erin.litzow@utdallas.edu](mailto:erin.litzow@utdallas.edu) and [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu) with a short note about yourself and why you would like to join.
