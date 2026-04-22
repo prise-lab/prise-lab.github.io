@@ -8,7 +8,7 @@ date: 2026-04-21
 
 Economists increasingly use satellite nighttime lights as a proxy for local economic activity — and our lab is taking a close look at how robust those results really are. We are assembling a library of replication packages from published papers that use nightlight data, and we need a student to help us read through them and pull out what matters.
 
-Your role is to go paper by paper and tell us, in plain language, where the nightlight data actually shows up in each study's main results. No prior research experience is required — these are skills you will learn on the job, with guidance from the faculty.
+Your role is to go paper by paper and tell me, in plain language, where the nightlight data actually shows up in each study's main results. No prior research experience is required — these are skills you will learn on the job, with my guidance.
 
 **What you will do**
 
@@ -20,7 +20,7 @@ Your role is to go paper by paper and tell us, in plain language, where the nigh
 
 - Hands-on training in how to read, interpret, and evaluate empirical economics research.
 - A front-row seat to an active research project at the intersection of remote sensing and development economics.
-- Mentorship from the faculty and a strong letter of recommendation for future applications.
+- Direct mentorship from Dr. Cisneros and a strong letter of recommendation for future applications.
 
 **Who we are looking for**
 
@@ -28,4 +28,4 @@ Any motivated UT Dallas undergraduate with curiosity about economics or environm
 
 **Interested?**
 
-Email [erin.litzow@utdallas.edu](mailto:erin.litzow@utdallas.edu) and [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu) with a short note about yourself and why you would like to join.
+Email [elias.cisneros@utdallas.edu](mailto:elias.cisneros@utdallas.edu) with a short note about yourself and why you would like to join.
