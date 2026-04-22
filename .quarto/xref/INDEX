@@ -19,5 +19,11 @@
   },
   "get-involved.qmd": {
     "get-involved.html": "a49dcdb9"
+  },
+  "projects/water-quality.qmd": {
+    "water-quality.html": "5c7b0daf"
+  },
+  "projects/applications-manager.qmd": {
+    "applications-manager.html": "1a729832"
   }
 }

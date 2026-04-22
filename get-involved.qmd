@@ -29,3 +29,17 @@ Testing campus drinking water for PFAS, lead, and other contaminants; surveying 
 :::
 
 :::
+
+::: {.opportunity-card}
+
+<div class="opportunity-thumb"><a href="projects/applications-manager.qmd"><img src="images/applications-review.jpg" alt="Student reviewing documents on a laptop"></a></div>
+
+::: {.opportunity-content}
+### [Student Applications Manager](projects/applications-manager.qmd)
+
+[Paid or for-credit student assistant role]{.subtitle}
+
+Advanced undergraduate or graduate student to review incoming applications to PRISE Lab, maintain an applicant tracker, and flag candidates who align with ongoing projects. A few hours per week.
+:::
+
+:::
