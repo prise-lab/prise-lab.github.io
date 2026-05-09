@@ -92,9 +92,12 @@ Climate variability, human capital, and political economy. Research on extreme h
 ::: {.team-grid}
 
 ::: {.team-member}
+<img src="images/abhyankar.jpg" alt="Photo of Aria Abhyankar">
 
 ### Aria Abhyankar
 [Undergraduate student, International Political Economy]{.role}
+
+Senior thesis on the U.S. prison system and environmental quality. UTD Sustainability Honors recipient (2025) with a full scholarship for study abroad in Amsterdam and Brussels on international law and politics. Chaired the SEPPS Dean's Council; graduating summa cum laude in May 2026.
 
 [Aria.Abhyankar@utdallas.edu](mailto:Aria.Abhyankar@UTDallas.edu)
 :::
