@@ -25,5 +25,8 @@
   },
   "projects/applications-manager.qmd": {
     "applications-manager.html": "1a729832"
+  },
+  "projects/nightlights-replications.qmd": {
+    "nightlights-replications.html": "4766b15a"
   }
 }
