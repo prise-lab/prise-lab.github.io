@@ -10,7 +10,7 @@ title: "News"
 
 **May 2026** - Undergraduate student [Joey Rogers](team.qmd) won the EPPS Undergraduate Research Scholar Award for his research on drought and deforestation in Vietnam!
 
-![Joey Rogers at the EPPS Undergraduate Research Scholar Awards](images/rogers_award_2026.jpeg){width="50%"}
+![Joey Rogers (second from left) at the EPPS Undergraduate Research Scholar Awards](images/rogers_award_2026.jpeg){width="50%"}
 
 **April 2026** - PhD students [Kayleigh Tompkins](team.qmd) and [Mamie Cincotta](team.qmd) presented their work on hurricanes and voter behavior at the Midwest Political Science Association (MPSA) Conference in Chicago.
 
