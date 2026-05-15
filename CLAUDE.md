@@ -37,7 +37,7 @@ These are the failure modes that have already happened on this repo. Avoid them.
 
 - **Content layout**: top-level `.qmd` files become navbar pages; `projects/` holds standalone project/opportunity posts surfaced via `.opportunity-card` blocks on `get-involved.qmd` (style defined in `styles.css`).
 - **Images**: place in `images/`. Quarto copies referenced images into `docs/images/` during render. Don't add images to `docs/images/` by hand.
-- **Team page photos**: filenames follow `LASTNAME_First.jpg` (or `.jpeg`), paired with a same-prefix bio text file (e.g. `ABHYANKAR_Aria.jpg` + a corresponding bio entry). Source bios live in the lab's `orga/team/` folder outside this repo — coordinate with Elías/Erin before adding new team members.
+- **Team page photos**: in this repo, `images/<lastname>.jpg` (lowercase, e.g. `litzow.jpg`, `abhyankar.jpg`, `rogers.jpg`). Source headshots and bios live upstream in the lab's `orga/team/` folder (outside this repo) under the convention `LASTNAME_First.jpg` + `firstnamelastname.txt`. Coordinate with Elías/Erin before adding new team members.
 - **News entries**: descending chronological under `## <year>`, format `**Month Year** - sentence with [Name](team.qmd) links and a trailing period.`
 
 ## If you broke something
