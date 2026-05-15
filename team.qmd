@@ -103,6 +103,7 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 :::
 
 ::: {.team-member}
+<img src="images/rogers.jpg" alt="Photo of Joey Rogers">
 
 ### Joey Rogers
 [Undergraduate student]{.role}
