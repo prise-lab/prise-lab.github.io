@@ -32,7 +32,7 @@ Political economy of land-use change and deforestation in Brazil and Indonesia. 
 
 :::
 
-## Graduate Student Researchers
+## Student Researchers
 
 ::: {.student-team-list}
 
@@ -44,6 +44,8 @@ Political economy of land-use change and deforestation in Brazil and Indonesia. 
 [PhD candidate, Public Policy & Political Economy]{.role}
 
 Climate variability, human capital, and political economy. Research on extreme heat and educational outcomes, weather shocks in India, and patent reforms in emerging markets. UT System Graduate Archer Fellow and NSF-funded EITM Scholar.
+
+[LinkedIn](https://www.linkedin.com/in/sonalisinghh/){target="_blank"} · [sonali.singh2@utdallas.edu](mailto:sonali.singh2@utdallas.edu)
 :::
 :::
 
@@ -97,12 +99,6 @@ Climate variability, human capital, and political economy. Research on extreme h
 :::
 :::
 
-:::
-
-## Undergraduate Student Researchers
-
-::: {.student-team-list}
-
 ::: {.team-member}
 <img src="images/abhyankar.jpg" alt="Photo of Aria Abhyankar">
 
@@ -116,12 +112,18 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 :::
 :::
 
+:::
+
+## Former Team Members
+
+::: {.student-team-list}
+
 ::: {.team-member}
 <img src="images/rogers.jpg" alt="Photo of Joey Rogers">
 
 ::: {.student-member-content}
 ### Joey Rogers
-[Undergraduate student]{.role}
+[Former undergraduate student]{.role}
 
 [LinkedIn](https://www.linkedin.com/in/joseph-rogers-320abb2a1/){target="_blank"} · [Joseph.Rogers2@utdallas.edu](mailto:Joseph.Rogers2@UTDallas.edu)
 :::
@@ -131,12 +133,10 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 
 ::: {.student-member-content}
 ### Nyma Anisa Ehtesham
-[Undergraduate student, International Political Economy]{.role}
+[Former undergraduate student]{.role}
 
 [Nyma.Ehtesham@utdallas.edu](mailto:Nyma.Ehtesham@UTDallas.edu)
 :::
 :::
 
 :::
-
-*We are always looking for motivated students. If you are interested in joining the lab, reach out to either faculty member.*

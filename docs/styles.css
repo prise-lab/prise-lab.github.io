@@ -8,7 +8,11 @@
 
 .group-photo {
   width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center bottom;
   border-radius: 8px;
+  display: block;
   margin-bottom: 2rem;
 }
 
