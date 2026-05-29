@@ -18,7 +18,6 @@ PRISE Lab offers hands-on research experience for undergraduate and graduate stu
 
 Students interested in sustainability, energy, inequality, and policy research can also explore:
 
-- [Research Explorer](https://profiles.utdallas.edu/){target="_blank"} to find faculty and labs working on related topics
 - [URAP](https://honors.utdallas.edu/research/undergraduate-research-apprenticeship-program/){target="_blank"} for faculty-led research apprenticeships
 - [URSA](https://oue.utdallas.edu/research/undergraduate-research-scholar-awards/){target="_blank"} for independent research funding
 - [SPUR](https://spur.utdallas.edu/){target="_blank"} for poster and presentation opportunities
