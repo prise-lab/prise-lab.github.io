@@ -12,9 +12,17 @@ We hold weekly lab meetings open to anyone interested. Come by, see what we're w
 
 PRISE Lab offers hands-on research experience for undergraduate and graduate students at UT Dallas. No prior research experience is required — just genuine interest and reliability. We mentor students through every step of the research process.
 
-Students looking for a broader roadmap can start with our [student research guide](student-research.qmd).
-
 **Interested? [Apply here.](https://profiles.utdallas.edu/students/create){target="_blank"}**
+
+## UTD Research Pathways
+
+Students interested in sustainability, energy, inequality, and policy research can also explore:
+
+- [Research Explorer](https://profiles.utdallas.edu/){target="_blank"} to find faculty and labs working on related topics
+- [URAP](https://honors.utdallas.edu/research/undergraduate-research-apprenticeship-program/){target="_blank"} for faculty-led research apprenticeships
+- [URSA](https://oue.utdallas.edu/research/undergraduate-research-scholar-awards/){target="_blank"} for independent research funding
+- [SPUR](https://spur.utdallas.edu/){target="_blank"} for poster and presentation opportunities
+- [Clark Summer Research Program](https://honors.utdallas.edu/research/clark-program/){target="_blank"} and external summer research programs
 
 ## Current Opportunities
 

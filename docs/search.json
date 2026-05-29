@@ -1,101 +1,52 @@
 [
   {
-    "objectID": "student-research.html",
-    "href": "student-research.html",
-    "title": "Student Research Opportunities",
+    "objectID": "get-involved.html",
+    "href": "get-involved.html",
+    "title": "Get Involved",
     "section": "",
-    "text": "Sustainability, energy, inequality, and applied policy research\n\n\n\nStudents interested in sustainability research can start with faculty-led projects, short-term working groups, lab meetings, and methods training, then move toward independent projects, conference presentations, and graduate-school preparation."
+    "text": "We hold weekly lab meetings open to anyone interested. Come by, see what we’re working on, and meet the team — no commitment required.\nLocation: Green Hall, GR 3.316 (Thomas Spencer Hall)"
   },
   {
-    "objectID": "student-research.html#ways-to-start",
-    "href": "student-research.html#ways-to-start",
-    "title": "Student Research Opportunities",
-    "section": "Ways to Start",
-    "text": "Ways to Start\n\n\nJoin a research lab\nLabs such as PRISE give students exposure to data collection, literature review, coding, research design, and applied policy questions. You do not need every possible activity; sustained work in one serious research setting is often more valuable than a long list of shallow experiences.\n\n\nBuild technical skills\nStart learning R, Python, statistics, and quantitative methods through UTD-supported resources such as Coursera or DataCamp, and through courses that require original research papers, data analysis, or applied policy projects.\n\n\nWork with faculty\nUse Research Explorer to find faculty whose interests match yours. Reach out with a concise note explaining the research topic, your skills, and what kind of assistance you can provide.\n\n\nPresent your work\nBy junior year, aim to present posters or papers, apply to conferences, and build a CV that shows depth. Publications are helpful when feasible, but consistent research experience and strong faculty recommendations also matter."
+    "objectID": "get-involved.html#weekly-meetings",
+    "href": "get-involved.html#weekly-meetings",
+    "title": "Get Involved",
+    "section": "",
+    "text": "We hold weekly lab meetings open to anyone interested. Come by, see what we’re working on, and meet the team — no commitment required.\nLocation: Green Hall, GR 3.316 (Thomas Spencer Hall)"
   },
   {
-    "objectID": "student-research.html#utd-research-pathways",
-    "href": "student-research.html#utd-research-pathways",
-    "title": "Student Research Opportunities",
+    "objectID": "get-involved.html#student-research-opportunities",
+    "href": "get-involved.html#student-research-opportunities",
+    "title": "Get Involved",
+    "section": "Student Research Opportunities",
+    "text": "Student Research Opportunities\nPRISE Lab offers hands-on research experience for undergraduate and graduate students at UT Dallas. No prior research experience is required — just genuine interest and reliability. We mentor students through every step of the research process.\nInterested? Apply here."
+  },
+  {
+    "objectID": "get-involved.html#utd-research-pathways",
+    "href": "get-involved.html#utd-research-pathways",
+    "title": "Get Involved",
     "section": "UTD Research Pathways",
-    "text": "UTD Research Pathways\n\nUndergraduate Research Apprenticeship Program (URAP) connects students with faculty-led research.\nSPUR supports student posters and undergraduate research presentation.\nUndergraduate Research Scholar Awards (URSA) provide funding for independent research.\nClark Summer Research Program supports summer research experience.\nUTD research facilities and centers can help students identify labs, centers, and applied research communities beyond their home department."
+    "text": "UTD Research Pathways\nStudents interested in sustainability, energy, inequality, and policy research can also explore:\n\nResearch Explorer to find faculty and labs working on related topics\nURAP for faculty-led research apprenticeships\nURSA for independent research funding\nSPUR for poster and presentation opportunities\nClark Summer Research Program and external summer research programs"
   },
   {
-    "objectID": "student-research.html#year-by-year-guide",
-    "href": "student-research.html#year-by-year-guide",
-    "title": "Student Research Opportunities",
-    "section": "Year-by-Year Guide",
-    "text": "Year-by-Year Guide\n\n\nFirst year\nTake stronger math and methods courses, start learning R or Python, attend lab meetings or policy seminars, and identify faculty whose work matches your interests. The goal is to build basic research skills and find a research environment you can stay with.\n\n\nSophomore year\nMove deeper into faculty-led research, take higher-level theory or methods courses, and apply for programs such as URSA, URAP, the Clark Summer Research Program, or external summer research fellowships. The goal is technical growth and broader exposure.\n\n\nJunior year\nStart leading a bounded independent project or work closely with faculty on a coauthored project. Apply to present at conferences, build a poster or paper, and identify faculty who can write detailed recommendations about your research skills.\n\n\nSenior year\nComplete a senior thesis or capstone project when appropriate, clarify your research niche, and use your strongest projects to write graduate-school or fellowship applications. If you are considering applied economics PhD programs, check math requirements early."
+    "objectID": "get-involved.html#current-opportunities",
+    "href": "get-involved.html#current-opportunities",
+    "title": "Get Involved",
+    "section": "Current Opportunities",
+    "text": "Current Opportunities\n\n\n\n\n\nCampus Drinking Water Quality Study\nUTD Green Fund student-led research initiative (Fall 2026)\nTesting campus drinking water for PFAS, lead, and other contaminants; surveying willingness to pay for improvements; recruiting students from environmental science, social science, and engineering.\n\n\n\n\n\n\n\nStudent Applications Manager\nVolunteer role — join PRISE Lab\nBecome part of PRISE as our Student Applications Manager. Help us review incoming applications and match students to ongoing projects, while gaining a first taste of life inside a research lab.\n\n\n\n\n\n\n\nNightlights Replication Reviewer\nVolunteer role — join PRISE Lab\nRead published economics papers that use satellite nighttime lights and help us pinpoint where the nightlight data shows up in each study’s main results. Learn to read empirical research on the job."
   },
   {
-    "objectID": "student-research.html#sustainability-topics-at-prise",
-    "href": "student-research.html#sustainability-topics-at-prise",
-    "title": "Student Research Opportunities",
-    "section": "Sustainability Topics at PRISE",
-    "text": "Sustainability Topics at PRISE\nStudents can build research experience around questions such as:\n\nenvironmental shocks, political accountability, and climate policy;\nconservation program effectiveness and tropical forest loss;\nclean energy adoption and household welfare;\npollution exposure, water quality, and environmental inequality;\nremote sensing, survey data, and causal inference for applied policy.\n\nCurrent lab openings are listed on the Get Involved page."
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "PRISE Lab",
+    "section": "About",
+    "text": "About\nWe are a research hub at UT Dallas dedicated to understanding and solving critical challenges in environmental sustainability, energy, and economic inequality. We focus on the human impact of environmental and economic shocks, particularly how they affect marginalized populations.\nOur research spans hurricane impacts in the U.S., tropical forest losses, energy access in sub-Saharan Africa, and pollution effects worldwide."
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links",
-    "section": "",
-    "text": "SCB Impact"
-  },
-  {
-    "objectID": "links.html#collaborations",
-    "href": "links.html#collaborations",
-    "title": "Links",
-    "section": "",
-    "text": "SCB Impact"
-  },
-  {
-    "objectID": "links.html#ut-dallas",
-    "href": "links.html#ut-dallas",
-    "title": "Links",
-    "section": "UT Dallas",
-    "text": "UT Dallas\n\nSchool of Economic, Political and Policy Sciences (EPPS) — Our home school at UT Dallas."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "May 2026 - We celebrated the end of the school year with a group lunch, saying goodbye to our graduating seniors Aria Abhyankar, Nyma Anisa Ehtesham, and Joey Rogers!\n\n\n\nPRISE Lab Spring 2026 Lunch\n\n\nMay 2026 - Undergraduate student Joey Rogers won the EPPS Undergraduate Research Scholar Award for his research on drought and deforestation in Vietnam!\n\n\n\nJoey Rogers (second from left) at the EPPS Undergraduate Research Scholar Awards\n\n\nApril 2026 - PhD students Kayleigh Tompkins and Mamie Cincotta presented their work on hurricanes and voter behavior at the Midwest Political Science Association (MPSA) Conference in Chicago.\nApril 2026 - PhD student Yiqun Yu presents his research linking temperature change and other climate shocks to learning outcomes in East Africa at the 4th Annual Texas Applied Microeconomics Student (TEAMS) workshop at Rice University.\nApril 2026 - Undergraduate student Joey Rogers presents his research “When the River Runs Dry: Drought and Deforestation in Vietnam Forest Policy” at UT-D’s Undergraduate Research Scholar Awards Poster Contest Symposium.\nApril 2026 — PRISE Lab seeking students to apply for UTD Green Fund campus drinking water quality study. Learn more if interested.\nApril 2026 — PRISE Lab website goes live."
-  },
-  {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "News",
-    "section": "",
-    "text": "May 2026 - We celebrated the end of the school year with a group lunch, saying goodbye to our graduating seniors Aria Abhyankar, Nyma Anisa Ehtesham, and Joey Rogers!\n\n\n\nPRISE Lab Spring 2026 Lunch\n\n\nMay 2026 - Undergraduate student Joey Rogers won the EPPS Undergraduate Research Scholar Award for his research on drought and deforestation in Vietnam!\n\n\n\nJoey Rogers (second from left) at the EPPS Undergraduate Research Scholar Awards\n\n\nApril 2026 - PhD students Kayleigh Tompkins and Mamie Cincotta presented their work on hurricanes and voter behavior at the Midwest Political Science Association (MPSA) Conference in Chicago.\nApril 2026 - PhD student Yiqun Yu presents his research linking temperature change and other climate shocks to learning outcomes in East Africa at the 4th Annual Texas Applied Microeconomics Student (TEAMS) workshop at Rice University.\nApril 2026 - Undergraduate student Joey Rogers presents his research “When the River Runs Dry: Drought and Deforestation in Vietnam Forest Policy” at UT-D’s Undergraduate Research Scholar Awards Poster Contest Symposium.\nApril 2026 — PRISE Lab seeking students to apply for UTD Green Fund campus drinking water quality study. Learn more if interested.\nApril 2026 — PRISE Lab website goes live."
-  },
-  {
-    "objectID": "projects/water-quality.html",
-    "href": "projects/water-quality.html",
-    "title": "Campus Drinking Water Quality Study",
-    "section": "",
-    "text": "We are assembling a student team to test drinking water quality across campus for PFAS, lead, and other contaminants, survey the campus community on willingness to pay for improvements, and conduct a cost-benefit analysis of treatment options. We need students from three areas:\n\nEnvironmental Science — field sampling, lab coordination, data interpretation\nSocial Science / Economics / Public Policy — survey design, econometric analysis\nEngineering — water treatment costing, cost-benefit analysis\n\nTo apply, email erin.litzow@utdallas.edu and elias.cisneros@utdallas.edu with your name, major, year, which team interests you, and why."
-  },
-  {
-    "objectID": "projects/applications-manager.html",
-    "href": "projects/applications-manager.html",
-    "title": "Student Applications Manager",
-    "section": "",
-    "text": "Want to get a first taste of life inside a research lab? We are looking for an undergraduate student to become part of PRISE as our Student Applications Manager — a voluntary role that puts you right at the center of how the lab grows.\nYou will help us keep up with incoming applications to the lab, spot students whose interests line up with our projects, and pass along short notes to the faculty. Along the way you will meet everyone who joins, sit in on our weekly meetings, and see up close how applied environmental and energy economics research actually gets done.\nWhat you get\n\nA front-row seat at PRISE Lab and its ongoing projects.\nResearch experience, mentorship, and a strong letter of recommendation for future applications.\n\nWho we are looking for\nAny motivated UT Dallas undergraduate — no prior research experience needed. Bring curiosity, reliability, and an eye for detail.\nInterested?\nEmail erin.litzow@utdallas.edu and elias.cisneros@utdallas.edu with a short note about yourself and why you would like to join."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Coming soon."
-  },
-  {
-    "objectID": "projects/nightlights-replications.html",
-    "href": "projects/nightlights-replications.html",
-    "title": "Nightlights Replication Reviewer",
-    "section": "",
-    "text": "Economists increasingly use satellite nighttime lights as a proxy for local economic activity — and our lab is taking a close look at how robust those results really are. We are assembling a library of replication packages from published papers that use nightlight data, and we need a student to help us read through them and pull out what matters.\nYour role is to go paper by paper and tell me, in plain language, where the nightlight data actually shows up in each study’s main results. No prior research experience is required — these are skills you will learn on the job, with my guidance.\nWhat you will do\n\nRead assigned papers and their replication packages.\nIdentify which regressions and figures use nightlight data, and flag the ones the authors treat as the main result.\nKeep a short structured log so we can compare findings across papers.\n\nWhat you get\n\nHands-on training in how to read, interpret, and evaluate empirical economics research.\nA front-row seat to an active research project at the intersection of remote sensing and development economics.\nDirect mentorship from Dr. Cisneros and a strong letter of recommendation for future applications.\n\nWho we are looking for\nAny motivated UT Dallas undergraduate with curiosity about economics or environmental research and a willingness to read carefully. No prior coursework in econometrics or GIS required.\nInterested?\nEmail elias.cisneros@utdallas.edu with a short note about yourself and why you would like to join."
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "PRISE Lab",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nClimate and Political Accountability\nHow extreme weather events shape election outcomes and climate policy.\n\n\nConservation Program Effectiveness\nOptimizing conservation funding — evidence from Vietnam and beyond.\n\n\nClean Energy Adoption\nHousehold adoption of energy-efficient cooking appliances in Uganda.\n\n\nLand-Use Change and Deforestation\nPolitical economy of deforestation in Brazil and Indonesia using remote sensing and causal analysis."
   },
   {
     "objectID": "team.html",
@@ -126,45 +77,66 @@
     "text": "Undergraduate Student Researchers\n\n\n\n\nAria Abhyankar\nUndergraduate student, International Political Economy\nSenior thesis on the U.S. prison system and environmental quality. UTD Sustainability Honors recipient (2025) with a full scholarship for study abroad in Amsterdam and Brussels on international law and politics. Chaired the SEPPS Dean’s Council; graduating summa cum laude in May 2026.\nAria.Abhyankar@utdallas.edu\n\n\n\n\n\nJoey Rogers\nUndergraduate student\nLinkedIn · Joseph.Rogers2@utdallas.edu\n\n\n\nNyma Anisa Ehtesham\nUndergraduate student, International Political Economy\nNyma.Ehtesham@utdallas.edu\n\n\nWe are always looking for motivated students. If you are interested in joining the lab, reach out to either faculty member."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "PRISE Lab",
-    "section": "About",
-    "text": "About\nWe are a research hub at UT Dallas dedicated to understanding and solving critical challenges in environmental sustainability, energy, and economic inequality. We focus on the human impact of environmental and economic shocks, particularly how they affect marginalized populations.\nOur research spans hurricane impacts in the U.S., tropical forest losses, energy access in sub-Saharan Africa, and pollution effects worldwide."
-  },
-  {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "PRISE Lab",
-    "section": "Research Areas",
-    "text": "Research Areas\n\nClimate and Political Accountability\nHow extreme weather events shape election outcomes and climate policy.\n\n\nConservation Program Effectiveness\nOptimizing conservation funding — evidence from Vietnam and beyond.\n\n\nClean Energy Adoption\nHousehold adoption of energy-efficient cooking appliances in Uganda.\n\n\nLand-Use Change and Deforestation\nPolitical economy of deforestation in Brazil and Indonesia using remote sensing and causal analysis."
-  },
-  {
-    "objectID": "get-involved.html",
-    "href": "get-involved.html",
-    "title": "Get Involved",
+    "objectID": "projects/nightlights-replications.html",
+    "href": "projects/nightlights-replications.html",
+    "title": "Nightlights Replication Reviewer",
     "section": "",
-    "text": "We hold weekly lab meetings open to anyone interested. Come by, see what we’re working on, and meet the team — no commitment required.\nLocation: Green Hall, GR 3.316 (Thomas Spencer Hall)"
+    "text": "Economists increasingly use satellite nighttime lights as a proxy for local economic activity — and our lab is taking a close look at how robust those results really are. We are assembling a library of replication packages from published papers that use nightlight data, and we need a student to help us read through them and pull out what matters.\nYour role is to go paper by paper and tell me, in plain language, where the nightlight data actually shows up in each study’s main results. No prior research experience is required — these are skills you will learn on the job, with my guidance.\nWhat you will do\n\nRead assigned papers and their replication packages.\nIdentify which regressions and figures use nightlight data, and flag the ones the authors treat as the main result.\nKeep a short structured log so we can compare findings across papers.\n\nWhat you get\n\nHands-on training in how to read, interpret, and evaluate empirical economics research.\nA front-row seat to an active research project at the intersection of remote sensing and development economics.\nDirect mentorship from Dr. Cisneros and a strong letter of recommendation for future applications.\n\nWho we are looking for\nAny motivated UT Dallas undergraduate with curiosity about economics or environmental research and a willingness to read carefully. No prior coursework in econometrics or GIS required.\nInterested?\nEmail elias.cisneros@utdallas.edu with a short note about yourself and why you would like to join."
   },
   {
-    "objectID": "get-involved.html#weekly-meetings",
-    "href": "get-involved.html#weekly-meetings",
-    "title": "Get Involved",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "We hold weekly lab meetings open to anyone interested. Come by, see what we’re working on, and meet the team — no commitment required.\nLocation: Green Hall, GR 3.316 (Thomas Spencer Hall)"
+    "text": "Coming soon."
   },
   {
-    "objectID": "get-involved.html#student-research-opportunities",
-    "href": "get-involved.html#student-research-opportunities",
-    "title": "Get Involved",
-    "section": "Student Research Opportunities",
-    "text": "Student Research Opportunities\nPRISE Lab offers hands-on research experience for undergraduate and graduate students at UT Dallas. No prior research experience is required — just genuine interest and reliability. We mentor students through every step of the research process.\nStudents looking for a broader roadmap can start with our student research guide.\nInterested? Apply here."
+    "objectID": "projects/applications-manager.html",
+    "href": "projects/applications-manager.html",
+    "title": "Student Applications Manager",
+    "section": "",
+    "text": "Want to get a first taste of life inside a research lab? We are looking for an undergraduate student to become part of PRISE as our Student Applications Manager — a voluntary role that puts you right at the center of how the lab grows.\nYou will help us keep up with incoming applications to the lab, spot students whose interests line up with our projects, and pass along short notes to the faculty. Along the way you will meet everyone who joins, sit in on our weekly meetings, and see up close how applied environmental and energy economics research actually gets done.\nWhat you get\n\nA front-row seat at PRISE Lab and its ongoing projects.\nResearch experience, mentorship, and a strong letter of recommendation for future applications.\n\nWho we are looking for\nAny motivated UT Dallas undergraduate — no prior research experience needed. Bring curiosity, reliability, and an eye for detail.\nInterested?\nEmail erin.litzow@utdallas.edu and elias.cisneros@utdallas.edu with a short note about yourself and why you would like to join."
   },
   {
-    "objectID": "get-involved.html#current-opportunities",
-    "href": "get-involved.html#current-opportunities",
-    "title": "Get Involved",
-    "section": "Current Opportunities",
-    "text": "Current Opportunities\n\n\n\n\n\nCampus Drinking Water Quality Study\nUTD Green Fund student-led research initiative (Fall 2026)\nTesting campus drinking water for PFAS, lead, and other contaminants; surveying willingness to pay for improvements; recruiting students from environmental science, social science, and engineering.\n\n\n\n\n\n\n\nStudent Applications Manager\nVolunteer role — join PRISE Lab\nBecome part of PRISE as our Student Applications Manager. Help us review incoming applications and match students to ongoing projects, while gaining a first taste of life inside a research lab.\n\n\n\n\n\n\n\nNightlights Replication Reviewer\nVolunteer role — join PRISE Lab\nRead published economics papers that use satellite nighttime lights and help us pinpoint where the nightlight data shows up in each study’s main results. Learn to read empirical research on the job."
+    "objectID": "projects/water-quality.html",
+    "href": "projects/water-quality.html",
+    "title": "Campus Drinking Water Quality Study",
+    "section": "",
+    "text": "We are assembling a student team to test drinking water quality across campus for PFAS, lead, and other contaminants, survey the campus community on willingness to pay for improvements, and conduct a cost-benefit analysis of treatment options. We need students from three areas:\n\nEnvironmental Science — field sampling, lab coordination, data interpretation\nSocial Science / Economics / Public Policy — survey design, econometric analysis\nEngineering — water treatment costing, cost-benefit analysis\n\nTo apply, email erin.litzow@utdallas.edu and elias.cisneros@utdallas.edu with your name, major, year, which team interests you, and why."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "May 2026 - We celebrated the end of the school year with a group lunch, saying goodbye to our graduating seniors Aria Abhyankar, Nyma Anisa Ehtesham, and Joey Rogers!\n\n\n\nPRISE Lab Spring 2026 Lunch\n\n\nMay 2026 - Undergraduate student Joey Rogers won the EPPS Undergraduate Research Scholar Award for his research on drought and deforestation in Vietnam!\n\n\n\nJoey Rogers (second from left) at the EPPS Undergraduate Research Scholar Awards\n\n\nApril 2026 - PhD students Kayleigh Tompkins and Mamie Cincotta presented their work on hurricanes and voter behavior at the Midwest Political Science Association (MPSA) Conference in Chicago.\nApril 2026 - PhD student Yiqun Yu presents his research linking temperature change and other climate shocks to learning outcomes in East Africa at the 4th Annual Texas Applied Microeconomics Student (TEAMS) workshop at Rice University.\nApril 2026 - Undergraduate student Joey Rogers presents his research “When the River Runs Dry: Drought and Deforestation in Vietnam Forest Policy” at UT-D’s Undergraduate Research Scholar Awards Poster Contest Symposium.\nApril 2026 — PRISE Lab seeking students to apply for UTD Green Fund campus drinking water quality study. Learn more if interested.\nApril 2026 — PRISE Lab website goes live."
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "May 2026 - We celebrated the end of the school year with a group lunch, saying goodbye to our graduating seniors Aria Abhyankar, Nyma Anisa Ehtesham, and Joey Rogers!\n\n\n\nPRISE Lab Spring 2026 Lunch\n\n\nMay 2026 - Undergraduate student Joey Rogers won the EPPS Undergraduate Research Scholar Award for his research on drought and deforestation in Vietnam!\n\n\n\nJoey Rogers (second from left) at the EPPS Undergraduate Research Scholar Awards\n\n\nApril 2026 - PhD students Kayleigh Tompkins and Mamie Cincotta presented their work on hurricanes and voter behavior at the Midwest Political Science Association (MPSA) Conference in Chicago.\nApril 2026 - PhD student Yiqun Yu presents his research linking temperature change and other climate shocks to learning outcomes in East Africa at the 4th Annual Texas Applied Microeconomics Student (TEAMS) workshop at Rice University.\nApril 2026 - Undergraduate student Joey Rogers presents his research “When the River Runs Dry: Drought and Deforestation in Vietnam Forest Policy” at UT-D’s Undergraduate Research Scholar Awards Poster Contest Symposium.\nApril 2026 — PRISE Lab seeking students to apply for UTD Green Fund campus drinking water quality study. Learn more if interested.\nApril 2026 — PRISE Lab website goes live."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "SCB Impact"
+  },
+  {
+    "objectID": "links.html#collaborations",
+    "href": "links.html#collaborations",
+    "title": "Links",
+    "section": "",
+    "text": "SCB Impact"
+  },
+  {
+    "objectID": "links.html#ut-dallas",
+    "href": "links.html#ut-dallas",
+    "title": "Links",
+    "section": "UT Dallas",
+    "text": "UT Dallas\n\nSchool of Economic, Political and Policy Sciences (EPPS) — Our home school at UT Dallas."
   }
 ]

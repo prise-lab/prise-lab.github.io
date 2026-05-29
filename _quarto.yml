@@ -22,8 +22,6 @@ website:
         text: Team
       - href: research.qmd
         text: Research
-      - href: student-research.qmd
-        text: For Students
       - href: get-involved.qmd
         text: Get Involved
       - href: news.qmd
