@@ -34,66 +34,79 @@ Political economy of land-use change and deforestation in Brazil and Indonesia. 
 
 ## Graduate Student Researchers
 
-::: {.team-grid}
+::: {.student-team-list}
 
 ::: {.team-member}
 <img src="images/singh.jpg" alt="Photo of Sonali Singh">
 
+::: {.student-member-content}
 ### Sonali Singh
 [PhD candidate, Public Policy & Political Economy]{.role}
 
 Climate variability, human capital, and political economy. Research on extreme heat and educational outcomes, weather shocks in India, and patent reforms in emerging markets. UT System Graduate Archer Fellow and NSF-funded EITM Scholar.
 :::
+:::
 
 ::: {.team-member}
 
+::: {.student-member-content}
 ### Kayleigh Tompkins
 [Graduate student, Public Policy & Political Economy]{.role}
 
 [LinkedIn](https://www.linkedin.com/in/kayleigh-tompkins/){target="_blank"} · [kayleigh.tompkins@utdallas.edu](mailto:kayleigh.tompkins@utdallas.edu)
 :::
+:::
 
 ::: {.team-member}
 
+::: {.student-member-content}
 ### Mamie Cincotta
 [Graduate student, Public Policy & Political Economy]{.role}
 
 [Mamie.Cincotta@utdallas.edu](mailto:Mamie.Cincotta@UTDallas.edu)
 :::
+:::
 
 ::: {.team-member}
 
+::: {.student-member-content}
 ### Deena Essa
 [Graduate student, Public Policy & Political Economy]{.role}
 
 [deena.essa@utdallas.edu](mailto:deena.essa@utdallas.edu)
 :::
+:::
 
 ::: {.team-member}
 
+::: {.student-member-content}
 ### Yiqun Yu
 [Graduate student, Economics]{.role}
 
 [LinkedIn](https://www.linkedin.com/in/yiqun-yu-527003180/){target="_blank"} · [Yiqun.Yu@utdallas.edu](mailto:Yiqun.Yu@UTDallas.edu)
 :::
+:::
 
 ::: {.team-member}
 
+::: {.student-member-content}
 ### Partha Chowdhury
 [Graduate student, Political Science]{.role}
 
 [Partha.Chowdhury@utdallas.edu](mailto:Partha.Chowdhury@UTDallas.edu)
+:::
 :::
 
 :::
 
 ## Undergraduate Student Researchers
 
-::: {.team-grid}
+::: {.student-team-list}
 
 ::: {.team-member}
 <img src="images/abhyankar.jpg" alt="Photo of Aria Abhyankar">
 
+::: {.student-member-content}
 ### Aria Abhyankar
 [Undergraduate student, International Political Economy]{.role}
 
@@ -101,22 +114,27 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 
 [Aria.Abhyankar@utdallas.edu](mailto:Aria.Abhyankar@UTDallas.edu)
 :::
+:::
 
 ::: {.team-member}
 <img src="images/rogers.jpg" alt="Photo of Joey Rogers">
 
+::: {.student-member-content}
 ### Joey Rogers
 [Undergraduate student]{.role}
 
 [LinkedIn](https://www.linkedin.com/in/joseph-rogers-320abb2a1/){target="_blank"} · [Joseph.Rogers2@utdallas.edu](mailto:Joseph.Rogers2@UTDallas.edu)
 :::
+:::
 
 ::: {.team-member}
 
+::: {.student-member-content}
 ### Nyma Anisa Ehtesham
 [Undergraduate student, International Political Economy]{.role}
 
 [Nyma.Ehtesham@utdallas.edu](mailto:Nyma.Ehtesham@UTDallas.edu)
+:::
 :::
 
 :::
