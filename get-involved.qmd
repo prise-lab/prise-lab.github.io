@@ -12,6 +12,8 @@ We hold weekly lab meetings open to anyone interested. Come by, see what we're w
 
 PRISE Lab offers hands-on research experience for undergraduate and graduate students at UT Dallas. No prior research experience is required — just genuine interest and reliability. We mentor students through every step of the research process.
 
+Students looking for a broader roadmap can start with our [student research guide](student-research.qmd).
+
 **Interested? [Apply here.](https://profiles.utdallas.edu/students/create){target="_blank"}**
 
 ## Current Opportunities

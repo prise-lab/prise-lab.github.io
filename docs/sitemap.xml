@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://prise-lab.com/get-involved.html</loc>
-    <lastmod>2026-04-22T03:24:49.642Z</lastmod>
+    <loc>https://prise-lab.com/student-research.html</loc>
+    <lastmod>2026-05-29T02:34:51.443Z</lastmod>
   </url>
   <url>
-    <loc>https://prise-lab.com/index.html</loc>
+    <loc>https://prise-lab.com/links.html</loc>
     <lastmod>2026-04-04T02:40:01.067Z</lastmod>
-  </url>
-  <url>
-    <loc>https://prise-lab.com/team.html</loc>
-    <lastmod>2026-05-15T16:35:40.372Z</lastmod>
-  </url>
-  <url>
-    <loc>https://prise-lab.com/projects/nightlights-replications.html</loc>
-    <lastmod>2026-04-22T03:26:15.449Z</lastmod>
-  </url>
-  <url>
-    <loc>https://prise-lab.com/research.html</loc>
-    <lastmod>2026-04-04T02:40:01.068Z</lastmod>
-  </url>
-  <url>
-    <loc>https://prise-lab.com/projects/applications-manager.html</loc>
-    <lastmod>2026-04-22T03:24:50.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://prise-lab.com/projects/water-quality.html</loc>
-    <lastmod>2026-04-21T15:51:17.571Z</lastmod>
   </url>
   <url>
     <loc>https://prise-lab.com/news.html</loc>
     <lastmod>2026-05-15T16:39:55.830Z</lastmod>
   </url>
   <url>
-    <loc>https://prise-lab.com/links.html</loc>
+    <loc>https://prise-lab.com/projects/water-quality.html</loc>
+    <lastmod>2026-04-21T15:51:17.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.com/projects/applications-manager.html</loc>
+    <lastmod>2026-04-22T03:24:50.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.com/research.html</loc>
+    <lastmod>2026-04-04T02:40:01.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.com/projects/nightlights-replications.html</loc>
+    <lastmod>2026-04-22T03:26:15.449Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.com/team.html</loc>
+    <lastmod>2026-05-15T16:35:40.372Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.com/index.html</loc>
     <lastmod>2026-04-04T02:40:01.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prise-lab.com/get-involved.html</loc>
+    <lastmod>2026-05-29T02:22:06.198Z</lastmod>
   </url>
 </urlset>
