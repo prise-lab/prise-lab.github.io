@@ -4,7 +4,7 @@ title: "News"
 
 ## 2026
 
-**July 2026** - Undergraduate student Alexandra Russell presents her research "Towards a More Sustainable Police Fleet: The Cost and Carbon Case for Electrifying the Patrol Vehicle Fleet in Lewisville, Texas" at UT-D's SPUR 2026 Summer Undergraduate Research Poster Competition.
+**July 2026** - Undergraduate student [Alexandra Russell](team.qmd) presents her research "Towards a More Sustainable Police Fleet: The Cost and Carbon Case for Electrifying the Patrol Vehicle Fleet in Lewisville, Texas" at UT-D's SPUR 2026 Summer Undergraduate Research Poster Competition.
 
 ![Alexandra Russell with her poster at the SPUR 2026 Summer Undergraduate Research Poster Competition](images/russell_spur_2026.jpg){width="50%"}
 

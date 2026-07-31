@@ -112,6 +112,17 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 :::
 :::
 
+::: {.team-member}
+<img src="images/russell.jpg" alt="Photo of Alexandra Russell">
+
+::: {.student-member-content}
+### Alexandra Russell
+[Undergraduate student, Data Science]{.role}
+
+Cost and carbon analysis of municipal fleet electrification. Presented "Towards a More Sustainable Police Fleet," on electrifying the patrol vehicle fleet in Lewisville, Texas, at UT-D's SPUR 2026 Summer Undergraduate Research Poster Competition.
+:::
+:::
+
 :::
 
 ## Former Team Members
