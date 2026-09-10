@@ -125,6 +125,17 @@ Cost and carbon analysis of municipal fleet electrification. Presented "Towards 
 :::
 :::
 
+::: {.team-member}
+<img src="images/vaidyula.jpeg" alt="Photo of Deepak Reddy Vaidyula" style="object-position: center top;">
+
+::: {.student-member-content}
+### Deepak Reddy Vaidyula
+[Sophomore, Biology (pre-med)]{.role}
+
+Interested in how toxic chemicals and other harmful substances affect human health.
+:::
+:::
+
 :::
 
 ## Former Team Members
