@@ -73,6 +73,7 @@ He studies the political economy of large-scale change, focusing on how policy s
 :::
 
 ::: {.team-member}
+<img src="images/essa.jpg" alt="Photo of Deena Essa">
 
 ::: {.student-member-content}
 ### Deena Essa
@@ -83,6 +84,7 @@ He studies the political economy of large-scale change, focusing on how policy s
 :::
 
 ::: {.team-member}
+<img src="images/yu.jpg" alt="Photo of Yiqun Yu">
 
 ::: {.student-member-content}
 ### Yiqun Yu
@@ -148,6 +150,7 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 :::
 
 ::: {.team-member}
+<img src="images/tompkins.png" alt="Photo of Kayleigh Tompkins">
 
 ::: {.student-member-content}
 ### Kayleigh Tompkins
@@ -169,6 +172,7 @@ Senior thesis on the U.S. prison system and environmental quality. UTD Sustainab
 :::
 
 ::: {.team-member}
+<img src="images/ehtesham.png" alt="Photo of Nyma Anisa Ehtesham">
 
 ::: {.student-member-content}
 ### Nyma Anisa Ehtesham
