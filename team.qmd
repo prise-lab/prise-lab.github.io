@@ -65,16 +65,6 @@ He studies the political economy of large-scale change, focusing on how policy s
 ::: {.team-member}
 
 ::: {.student-member-content}
-### Kayleigh Tompkins
-[Graduate student, Public Policy & Political Economy]{.role}
-
-[LinkedIn](https://www.linkedin.com/in/kayleigh-tompkins/){target="_blank"} · [kayleigh.tompkins@utdallas.edu](mailto:kayleigh.tompkins@utdallas.edu)
-:::
-:::
-
-::: {.team-member}
-
-::: {.student-member-content}
 ### Mamie Cincotta
 [Graduate student, Public Policy & Political Economy]{.role}
 
@@ -88,7 +78,7 @@ He studies the political economy of large-scale change, focusing on how policy s
 ### Deena Essa
 [Graduate student, Public Policy & Political Economy]{.role}
 
-[deena.essa@utdallas.edu](mailto:deena.essa@utdallas.edu)
+[LinkedIn](https://www.linkedin.com/in/deenaessa/){target="_blank"} · [deena.essa@utdallas.edu](mailto:deena.essa@utdallas.edu)
 :::
 :::
 
@@ -102,6 +92,7 @@ He studies the political economy of large-scale change, focusing on how policy s
 :::
 :::
 
+<!--
 ::: {.team-member}
 
 ::: {.student-member-content}
@@ -111,19 +102,7 @@ He studies the political economy of large-scale change, focusing on how policy s
 [Partha.Chowdhury@utdallas.edu](mailto:Partha.Chowdhury@UTDallas.edu)
 :::
 :::
-
-::: {.team-member}
-<img src="images/abhyankar.jpg" alt="Photo of Aria Abhyankar">
-
-::: {.student-member-content}
-### Aria Abhyankar
-[Undergraduate student, International Political Economy]{.role}
-
-Senior thesis on the U.S. prison system and environmental quality. UTD Sustainability Honors recipient (2025) with a full scholarship for study abroad in Amsterdam and Brussels on international law and politics. Chaired the SEPPS Dean's Council; graduating summa cum laude in May 2026.
-
-[Aria.Abhyankar@utdallas.edu](mailto:Aria.Abhyankar@UTDallas.edu)
-:::
-:::
+-->
 
 ::: {.team-member}
 <img src="images/russell.jpg" alt="Photo of Alexandra Russell">
@@ -156,6 +135,29 @@ Interested in how toxic chemicals and other harmful substances affect human heal
 ::: {.student-team-list}
 
 ::: {.team-member}
+<img src="images/abhyankar.jpg" alt="Photo of Aria Abhyankar">
+
+::: {.student-member-content}
+### Aria Abhyankar
+[Former undergraduate student, International Political Economy]{.role}
+
+Senior thesis on the U.S. prison system and environmental quality. UTD Sustainability Honors recipient (2025) with a full scholarship for study abroad in Amsterdam and Brussels on international law and politics. Chaired the SEPPS Dean's Council; graduated summa cum laude in May 2026.
+
+[Aria.Abhyankar@utdallas.edu](mailto:Aria.Abhyankar@UTDallas.edu)
+:::
+:::
+
+::: {.team-member}
+
+::: {.student-member-content}
+### Kayleigh Tompkins
+[Former graduate student, Public Policy & Political Economy]{.role}
+
+[LinkedIn](https://www.linkedin.com/in/kayleigh-tompkins/){target="_blank"} · [kayleigh.tompkins@utdallas.edu](mailto:kayleigh.tompkins@utdallas.edu)
+:::
+:::
+
+::: {.team-member}
 <img src="images/rogers.jpg" alt="Photo of Joey Rogers">
 
 ::: {.student-member-content}
@@ -172,7 +174,7 @@ Interested in how toxic chemicals and other harmful substances affect human heal
 ### Nyma Anisa Ehtesham
 [Former undergraduate student]{.role}
 
-[Nyma.Ehtesham@utdallas.edu](mailto:Nyma.Ehtesham@UTDallas.edu)
+[LinkedIn](https://www.linkedin.com/in/nymaehtesham/){target="_blank"} · [Nyma.Ehtesham@utdallas.edu](mailto:Nyma.Ehtesham@UTDallas.edu)
 :::
 :::
 
