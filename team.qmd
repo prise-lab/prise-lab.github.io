@@ -50,6 +50,19 @@ Climate variability, human capital, and political economy. Research on extreme h
 :::
 
 ::: {.team-member}
+<img src="images/binkamal.png" alt="Photo of Md Khalid Bin Kamal">
+
+::: {.student-member-content}
+### Md Khalid Bin Kamal
+[Graduate student]{.role}
+
+He studies the political economy of large-scale change, focusing on how policy shifts and natural shocks affect different groups in society.
+
+[khalid@utdallas.edu](mailto:khalid@utdallas.edu)
+:::
+:::
+
+::: {.team-member}
 
 ::: {.student-member-content}
 ### Kayleigh Tompkins
